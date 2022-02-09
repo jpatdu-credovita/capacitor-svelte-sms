@@ -1,0 +1,6 @@
+{
+  "appId": "com.credovita.capacitorsveltesms",
+  "appName": "capacitor-svelte-sms",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
